@@ -1,0 +1,8 @@
+server:
+  port: 8082
+
+message: "Configuración desde Config Server para order-service en el ambiente de desarrollo"
+
+order:
+  discount: 10
+  currency: USD
