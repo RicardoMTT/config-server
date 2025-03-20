@@ -1,7 +1,7 @@
 server:
   port: 8082
 
-message: "Configuración desde Config Server para order-service en el ambiente de desarrollo"
+message: "Configuración desde Config Server para order-service en el ambiente de produccion"
 
 order:
   discount: 10
