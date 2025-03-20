@@ -2,3 +2,7 @@ server:
   port: 8082
 
 message: "Configuración desde Config Server para order-service"
+
+order:
+  discount: 10
+  currency: USD
