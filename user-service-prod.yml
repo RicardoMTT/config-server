@@ -1,1 +1,5 @@
 
+server:
+  port: 8081
+
+message: "Configuración desde Config Server para user-service en el ambiente de produccion"
